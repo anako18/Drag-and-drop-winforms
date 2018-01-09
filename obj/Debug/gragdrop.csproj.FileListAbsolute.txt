@@ -1,0 +1,9 @@
+c:\users\настя\documents\visual studio 2015\Projects\gragdrop\bin\Debug\gragdrop.exe.config
+c:\users\настя\documents\visual studio 2015\Projects\gragdrop\bin\Debug\gragdrop.exe
+c:\users\настя\documents\visual studio 2015\Projects\gragdrop\bin\Debug\gragdrop.pdb
+c:\users\настя\documents\visual studio 2015\Projects\gragdrop\obj\Debug\gragdrop.csprojResolveAssemblyReference.cache
+c:\users\настя\documents\visual studio 2015\Projects\gragdrop\obj\Debug\gragdrop.Form1.resources
+c:\users\настя\documents\visual studio 2015\Projects\gragdrop\obj\Debug\gragdrop.Properties.Resources.resources
+c:\users\настя\documents\visual studio 2015\Projects\gragdrop\obj\Debug\gragdrop.csproj.GenerateResource.Cache
+c:\users\настя\documents\visual studio 2015\Projects\gragdrop\obj\Debug\gragdrop.exe
+c:\users\настя\documents\visual studio 2015\Projects\gragdrop\obj\Debug\gragdrop.pdb
